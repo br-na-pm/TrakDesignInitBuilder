@@ -7,7 +7,7 @@ import generate
 # define master
 master = Tk()
 master.title('TrakDesign Task HW Parser')
-master.iconbitmap('icon.ico')
+# master.iconbitmap('icon.ico')
 
 
 def validate_num(numinput):

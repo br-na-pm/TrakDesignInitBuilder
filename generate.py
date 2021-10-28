@@ -1,4 +1,4 @@
-pyimport os
+import os
 import xml.etree.ElementTree as ETree
 import math
 
